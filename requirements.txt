@@ -1,0 +1,5 @@
+llama-cpp-python
+langchain
+torch
+numpy
+sentencepiece
